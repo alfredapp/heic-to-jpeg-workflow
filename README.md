@@ -14,6 +14,6 @@ Alternatively, find images with the `heicjpeg` keyword.
 
 ![Alfred search for HEIC images](Workflow/images/about/heicjpeg.png)
 
-JPEGs are saved to the `Save Folder` set in the [Workflow’s Configuration](https://www.alfredapp.com/help/workflows/user-configuration/) but you can imediatelly move them to another destination by choosing `Move to New Location` in the `After Conversion` configuration. Other options include showig a notification, revealing files in the Finder, and appending to the [File Buffer](https://www.alfredapp.com/help/features/file-search/#file-buffer).
+JPEGs are saved to the `Save Folder` set in the [Workflow’s Configuration](https://www.alfredapp.com/help/workflows/user-configuration/) but you can imediatelly move them to another destination by choosing `Move to New Location` in the `After Conversion` configuration. Other options include showing a notification, revealing files in the Finder, and appending to the [File Buffer](https://www.alfredapp.com/help/features/file-search/#file-buffer).
 
 The workflow will avoid overwriting any existing files, opting to stop rather than replace data.
